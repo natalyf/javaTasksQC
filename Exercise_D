@@ -7,7 +7,7 @@ public class Exercise_D {
      z = z - 1;
        
        System.out.println("+1 cycle");
-       } // This is my solution to count the how many times the loop will be executed.
+       } // This is my solution to count how many times the loop will be executed.
  
        
        System.out.println("x = " + x);
