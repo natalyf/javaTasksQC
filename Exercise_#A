@@ -1,9 +1,14 @@
-public class Zadachka {
-	public static void main(String[] args)  {
+public class Exercise_A {
+  public static void main(String[] args)  {
        int x = 1;
        int z; 
-       for(z = 6; z >= 2; z--)
+       
+       for(z = 6; z >= 2; z--){
        x = x + z;
+      
+      System.out.println("+1 cycle");
+      } // This is my solution to count the how many times the loop will be executed.
+       
        System.out.println("x = " + x);
        System.out.println("z = " + z);
  
