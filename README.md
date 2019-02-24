@@ -8,44 +8,73 @@ To determine what will display the following program item and how many times wil
 
 # a.
 int x = 1;
+
 int z; 
+
 for(z = 6; z >= 2; z--)
+
 x = x + z;
+
 System.out.println("x = " + x);
+
 System.out.println("z = " + z);
 
 # b.  
 int x = 7;
+
 int z;
+
 for(z = 1; z <= 6; z++)
 
 x =  x+z; 
+
 x = x * 10; 
+
 System.out.println("x = " + x); 
+
 System.out.println("z = " + z); 
+
  
 # c.  
 int x = 2; 
+
 int z; 
+
 for(z = 6; z <= 2; z++) 
+
 x = x + z;  
+
 System.out.println("x = " + x); 
+
 System.out.println("z = " + z); 
+
  
 # d.  
 int x = 0; 
+
 int z = 5; 
+
 while (z > 1 ){ 
+
 x = x + 1 / z; 
+
 z = z - 1; 
+
   } 
 System.out.println("x = " + x); 
+
 System.out.println("z = " + z); 
+
  
 # e.  
 int x = 0; 
+
 int z = 3; 
+
   do { 
+  
     z = z * 2; 
+    
     x = x + z; 
+    
 } 
