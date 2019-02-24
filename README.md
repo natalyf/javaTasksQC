@@ -1,7 +1,7 @@
 This is my repositorie for storing the solution of the sample of assignments to enter QualityControl Division (Version 2.1, 
 SoftServe IT Academy, source: https://career.softserveinc.com/samples/softserve_ua_-_QC_22_12_2016_v2.1ENG.docx).
 
-#I created the public classes and added my own solution to count how many times each loop will be executed.
+I added my own solution to count how many times each loop will be executed.
 
 Tasks from 3.2 Algorithms
 
