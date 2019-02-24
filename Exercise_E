@@ -7,7 +7,7 @@ public class Exercise_E {
        z = z * 2; 
        x = x + z;
        System.out.println("+1 cycle");
-       // This is my solution to count the how many times the loop will be executed.
+       // This is my solution to count how many times the loop will be executed.
        }
        
        while (z <7); 
