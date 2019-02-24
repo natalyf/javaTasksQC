@@ -78,3 +78,7 @@ int z = 3;
     x = x + z; 
     
 } 
+while (z <7); 
+System.out.println("x = " + x); 
+System.out.println("z = " + z);
+
