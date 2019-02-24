@@ -12,7 +12,9 @@ Task A
 +1 cycle
 +1 cycle
 +1 cycle
+
 x = 21
+
 z = 1
 
 Task B
@@ -22,12 +24,17 @@ Task B
 +1 cycle
 +1 cycle
 +1 cycle
+
 x = 280
+
 z = 7
 
 Task C
+
 x = 2
+
 z = 6
+
 NULL loops
 
 Task D
@@ -35,14 +42,19 @@ Task D
 +1 cycle
 +1 cycle
 +1 cycle
+
 x = 0
+
 z = 1
 
 Task E
 +1 cycle
 +1 cycle
+
 x = 18
+
 z = 12
+
 
 ---
 The tasks are following:
