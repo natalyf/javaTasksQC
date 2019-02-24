@@ -1,0 +1,17 @@
+public class Exercise_B {
+  public static void main(String[] args)  {
+       int x = 7;
+       int z;
+       
+       for(z = 1; z <= 6; z++){
+       x = x+z;
+       
+       System.out.println("+1 cycle");
+       } // This is my solution to count the how many times the loop will be executed.
+       x = x * 10;
+       
+       System.out.println("x = " + x);
+       System.out.println("z = " + z);
+ 
+	}
+}
